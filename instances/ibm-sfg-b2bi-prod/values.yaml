@@ -36,7 +36,7 @@ ibm-sfg-prod:
     fsGroup: 1010
     runAsUser: 1010
   dataSetup:
-    enabled: true
+    enabled: false
     upgrade: false
   env:
     tz: "UTC"
